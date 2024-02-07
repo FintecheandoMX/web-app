@@ -2069,7 +2069,7 @@
 			"Resources": "Recursos",
 			"User Group": "Grupo de usuario",
 			"User Manual": "Manual de usuario",
-			"Working with Code": "Trabajando con código",
+			"Working with Code": "Trabajando con código"
         },
         "menus": {
             "Accounting": "Contabilidad",
@@ -2752,7 +2752,7 @@
 			"undefined": "indefinido",
 			"withhold tax for this account": "retener impuestos para esta cuenta",
 			"Journal Entries": "Entradas de diario",
-			"“Maker-Checker” principle requires every tasks": "El principio de "fabricante de fabricantes" requiere que todas las tareas sean completadas por dos personas para reducir la posibilidad de errores y mal uso. Una persona inicia el proceso y el segundo lo completa."
+			"“Maker-Checker” principle requires every tasks": "El principio de 'Creador-Revisor' requiere que todas las tareas sean completadas por dos personas para reducir la posibilidad de errores y mal uso. Una persona inicia el proceso y el segundo lo completa."
         },
         "titles": {
             "Dashboard": "Tablero",

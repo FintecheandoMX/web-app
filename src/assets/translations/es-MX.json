@@ -272,7 +272,7 @@
 		"validation.msg.savingsproduct.shortName.exceeds.max.length": "El nombre corto no se puede terminar {{params [0] .value}} caracteres largos.",
 		"validation.msg.savingsproduct.withdrawalFeeAmount.cannot.be.blank": "El monto de la tarifa de retiro es obligatorio.",
 		"validation.msg.savingsproduct.withdrawalFeeAmount.not.zero.or.greater": "El monto de la tarifa de retiro debe ser mayor o igual a cero si se proporciona.",
-		"validation.msg.savingsproduct.withdrawalFeeType.is.not.one.of.expected.enumerations": "El tipo de período de tarifa de retiro es obligatorio.",
+		"validation.msg.savingsproduct.withdrawalFeeType.is.not.one.of.expected.enumerations": "El tipo de período de tarifa de retiro es obligatorio."
     },
     "labels": {
         "breadcrumbs": {
